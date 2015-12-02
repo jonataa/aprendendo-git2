@@ -20,3 +20,16 @@ $ git init             # cria um novo repositório
 ```shell
 $ git status # mostra o status do repositório
 ```
+
+## Realizando um commit
+
+```shell
+$ git add README.md
+$ git commit -m "mensagem do commit"
+```
+
+## Visualizando os logs
+
+```shell
+$ git log
+```
