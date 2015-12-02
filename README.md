@@ -60,4 +60,4 @@ $ git checkout <hash ou branch-name>  # troca de branch
 1. Ir para branch na qual receberá as mudanças ```git checkout master```;
 2. Digitar o comando ```git merge develop```;
 
-Adicionar campo sobrenome!
+Adicionar um campo sobrenome!
