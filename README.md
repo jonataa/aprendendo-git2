@@ -61,3 +61,4 @@ $ git checkout <hash ou branch-name>  # troca de branch
 2. Digitar o comando ```git merge develop```;
 
 Adicionar um campo sobrenome no sistema da empresa!
+Adicionar um campo sobrenome!
