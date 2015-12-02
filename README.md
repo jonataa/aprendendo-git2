@@ -32,6 +32,7 @@ $ git commit -m "mensagem do commit"
 
 ```shell
 $ git log
+$ git log --full-diff -p README.md
 ```
 
 ## Visualizando as diferenças
