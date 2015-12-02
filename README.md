@@ -33,3 +33,15 @@ $ git commit -m "mensagem do commit"
 ```shell
 $ git log
 ```
+
+## Visualizando as diferenças
+
+```shell
+$ git diff README.md # Mostra a diferença desse arquivo para o último commit
+```
+
+## Descartando as mudanças
+
+```shell
+$ git checkout -- README.md # descarta as mudanças do arquivo no último commit
+```
