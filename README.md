@@ -46,3 +46,10 @@ $ git diff README.md # Mostra a diferença desse arquivo para o último commit
 ```shell
 $ git checkout -- README.md # descarta as mudanças do arquivo no último commit
 ```
+
+## Trabalhando com Branchs
+
+```shell
+$ git branch                     # lista todas as branchs
+$ git checkout -b <branch-name>  # cria e troca para nova branch
+```
