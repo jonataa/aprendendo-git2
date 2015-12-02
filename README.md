@@ -50,6 +50,7 @@ $ git checkout -- README.md # descarta as mudanças do arquivo no último commit
 ## Trabalhando com Branchs
 
 ```shell
-$ git branch                     # lista todas as branchs
-$ git checkout -b <branch-name>  # cria e troca para nova branch
+$ git branch                          # lista todas as branchs
+$ git checkout -b <branch-name>       # cria e troca para nova branch
+$ git checkout <hash ou branch-name>  # troca de branch
 ```
