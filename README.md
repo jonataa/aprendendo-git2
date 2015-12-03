@@ -25,6 +25,7 @@ $ git status # mostra o status do repositório
 
 ```shell
 $ git add README.md
+$ git add .
 $ git commit -m "mensagem do commit"
 ```
 
